@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&display=swap');
+*{font-family: 'Amatic SC', cursive;
+margin: 0;
+padding: 0;
+}
+
+.answer p {
+    box-shadow: 2px 3px 15px 9px rgb(9 10 5);
+    background: rgb(10, 99, 123);
+    border-radius:  20px; 
+    width: 250px;
+    padding: 20px;
+    color: black;
+    height: fit-content;
+    font-size: 30px;
+    user-select: none;
+    }
+.start{
+    background: rgb(10, 99, 123);
+    box-shadow: 2px 3px 15px 9px rgb(9 10 5);
+    padding: 20px;
+    width: fit-content;
+    border-radius: 20px; 
+    outline: none;
+    border: none;
+    color: black;
+    margin: 20px;
+    font-size: 30px;
+}
+.dalee{
+    background:  rgb(10, 99, 123);
+    box-shadow: 2px 3px 15px 9px rgb(9 10 5);
+    padding: 20px;
+    width: fit-content;
+    border-radius: 20px; 
+    outline: none;
+    border: none;
+    color:black ;
+    margin: 20px;
+    font-size: 30px;
+}
+.answer{
+    height: fit-content;
+    border-radius: 20px; 
+    outline: none;
+    border: none;
+    background:rgba(63, 155, 159, 0.719);
+    box-shadow: 2px 3px 15px 9px rgb(9 10 5);
+    width: 600px;
+    padding: 15px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+.buttons{
+    background: rgba(63, 155, 159, 0.719);
+    height: fit-content;
+    border-radius: 20px; 
+    width: 630px;
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+body{
+
+    background: rgb(2,0,36);
+    /* background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,115,121,1) 49%, rgba(2,0,36,1) 100%); */
+    background: url(https://phonoteka.org/uploads/posts/2021-07/1625159019_47-phonoteka-org-p-graviti-folz-zastavka-krasivie-zastavki-54.jpg);
+    background-size: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100vh;
+    
+}
+.quest{
+    font-size: 60px;
+    color: white;
+}
+.questt{
+    font-size: 40px;
+    color:white;
+}
+.p{
+    background: url(http://spb.zvetnoe.ru/upload/catalog/2022/09/gravityfalls-010.jpg);
+    background-size: 100%;
+    
+}
+.pp{
+    background: url(https://avatars.mds.yandex.net/i?id=d0c06378530dedf8958b2195a8aa6bc7-4349754-images-thumbs&n=13);
+    background-size: 100%;
+    
+}
+.ppp{
+    background: url(https://avatars.mds.yandex.net/i?id=b00218f11e9543ef43998f1196d92ab3-4981909-images-thumbs&n=13);
+    background-size: 100%;
+    
+}
+.pppp{
+    background: url(https://avatars.mds.yandex.net/i?id=6f1df6ccad636f07a6faa6166d7d46b1df5eae30-8148275-images-thumbs&n=13);
+    background-size: 100%;
+    
+}
+
+
+ 
+/*css shadow generator*/
